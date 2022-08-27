@@ -68,3 +68,5 @@ const CONFIG = {
 module.exports = {
   CONFIG,
 };
+
+workflow_dispatch:
